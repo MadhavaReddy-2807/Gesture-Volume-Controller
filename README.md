@@ -1,4 +1,5 @@
-# Gesture-Volume-Controller# Hand Gesture Volume Control
+# Gesture-Volume-Controller
+# Hand Gesture Volume Control
 
 This project implements a hand-tracking-based volume control system using **OpenCV, MediaPipe, and Pycaw**. The system detects a user's hand and adjusts the system volume based on the distance between the thumb and index finger.
 
